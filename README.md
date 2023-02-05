@@ -4,22 +4,24 @@ Project: S3 & Lambda
 
 Author: Andra Steele
 
-Links and Resources
+**Links and Resources**
 
-[ci/cd]()
+[ci/cd](https://github.com/asteele1493/image-lambda/actions)
 
-back-end server url (when applicable)
+**Tests**
 
-front-end application (when applicable)
+npm test
 
-Tests
+**UML**
 
-How do you run tests?
+![Working whiteboard](./lab-17.png)
 
-Any tests of note?
+Updated 02/03:
 
-Describe any tests that you did not complete, skipped, etc
+Whiteboard needs updated code for updated bucket policy, lambda role policy, and bucket code.
 
-UML
 
-Link to an image of the UML for your application and response to events
+In your README.md include:
+a description of how to use your lambda.
+a description of any issues you encountered during deployment of this lambda.
+a link to your images.json file.
